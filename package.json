@@ -1,0 +1,19 @@
+{
+  "name": "timerapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "description": ""
+}
